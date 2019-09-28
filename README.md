@@ -2,7 +2,7 @@
 
 ## Task
 
-Implement function, that for given two numbers, presented as strings will return their product
+Implement function that for given two numbers presented as strings will return their product.
 
 ```js
 multiply('1', '1') // -> '1', because 1 * 1 === 1
@@ -19,7 +19,7 @@ Write your code in `src/index.js`
 4. Go to folder `multiply`  
 5. To install all dependencies use [`npm install`](https://docs.npmjs.com/cli/install)  
 6. Run npm test in command line  
-7. You will see the number of passing and failing tests you 100% of passing tests is equal to 100p in score  
+7. You will see the number of passing and failing tests where 100% of passing tests is equal to 100p in score  
 
 ## Submit to [rs app](https://app.rs.school)
 1. Open [rs app](https://app.rs.school) and login
